@@ -13,3 +13,13 @@ app.MapGet("/", () => Razor.View("TestView", new { Place = "Cape Town"}, app));
 
 await app.RunAsync();
 ```
+
+By default, Razor will look for Views in /Views
+
+TestView example
+
+```csharp
+@model dynamic
+
+hello from @Model.Place
+```
