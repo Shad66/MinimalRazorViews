@@ -1,6 +1,6 @@
 # MinimalRazorViews
 
-Enhance the new .Net 6 minimal API by letting you return Razor Views.
+Render Razor views from the new .net 6 minimal API.
 
 ```csharp
 var builder = WebApplication.CreateBuilder(args);

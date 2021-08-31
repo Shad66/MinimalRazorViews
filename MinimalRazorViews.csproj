@@ -9,6 +9,11 @@
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<PackageProjectUrl>https://github.com/Shad66/MinimalRazorViews</PackageProjectUrl>
 	<RepositoryUrl>https://github.com/Shad66/MinimalRazorViews</RepositoryUrl>
+	<Version>1.0.3</Version>
+	<Authors>Ryan Drennan</Authors>
+	<Description>Render Razor views from the new .net 6 minimal api</Description>
+	<Summary>Render Razor views from the new .net 6 minimal api</Summary>
+	<Title>Miminimal Razor Views</Title>
   </PropertyGroup>
 	
 </Project>
