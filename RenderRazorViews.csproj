@@ -7,6 +7,8 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	<IsPackable>true</IsPackable>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageProjectUrl>https://github.com/Shad66/MinimalRazorViews</PackageProjectUrl>
+	<RepositoryUrl>https://github.com/Shad66/MinimalRazorViews</RepositoryUrl>
   </PropertyGroup>
 	
 </Project>
